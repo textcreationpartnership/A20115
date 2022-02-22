@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The horrible murther of a young boy of three yeres of age, whose sister had her tongue cut out and how it pleased God to reueale the offendors, by giuing speech to the tongueles childe. Which offendors were executed at Hartford the 4. of August. 1606.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20115</idno>
+            <idno type="STC">STC 6552</idno>
+            <idno type="STC">ESTC S113482</idno>
+            <idno type="EEBO-CITATION">99848716</idno>
+            <idno type="PROQUEST">99848716</idno>
+            <idno type="VID">13828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 13828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 986:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The horrible murther of a young boy of three yeres of age, whose sister had her tongue cut out and how it pleased God to reueale the offendors, by giuing speech to the tongueles childe. Which offendors were executed at Hartford the 4. of August. 1606.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Allde for VVilliam Firebrand, and are to be solde at his shop in the Popes-head alley, ouer against the tauerne doore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title reads: A true relation of the cruell murthering of a young boy, not fully three yeares olde, whose sister likewise had her tongue cut out of her head, hard by the rootes: which murther and massacre was done by a woman called Mother Dell, and her sonne, dwelling at Hatfield in Hartfordshire, .. .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dell, Annis, d. 1606.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:13828:1"/>
+            <pb facs="tcp:13828:1"/>
+            <p>THE HORRIBLE Murther of a young <hi>Boy of three yeres of age, whoſe Siſt<g ref="char:EOLhyphen"/>er</hi> had her tongue cut out: and how it pleaſed God to reueale the offendors, by giuing ſpeech to the tongueles Childe.</p>
+            <p>Which Offendors were executed at <hi>Hartford</hi> the 4. of Auguſt. 1606.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Ed. Allde</hi> for <hi>VVilliam Firebrand,</hi> and are to be ſolde at his Shop in the Popes-head Alley, ouer againſt the Tauerne doore. 1606.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:13828:2"/>
+            <pb n="1" facs="tcp:13828:2"/>
+            <head>A True Relation of the cruell Mur<g ref="char:EOLhyphen"/>thering of a young Boy, not fully three yeares olde, whoſe Siſter likewiſe had her tongue cut out of her head, hard by the rootes: which murther and maſſa<g ref="char:EOLhyphen"/>cre was done by a woman called Mother <hi>Dell,</hi> and her Sonne, dwelling at <hi>Hatfield</hi> in Hartfordſhire, for which monſtrous fact, they were both hanged at Hartford this laſt Siſes. The onely witneſſe to proue the Murther was the tongue<g ref="char:EOLhyphen"/>les Childe, moſt mightily preſerued from death, to which Childe it pleaſed God to lend the vſe of ſpeech, notwithſtan<g ref="char:EOLhyphen"/>ding the want of her tongue.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N <hi>Hatfield</hi> in the Countie of <hi>Hartford,</hi> dwelled an olde Widdowe, called Mother <hi>Dell,</hi> who had abiding with her in the houſe, onely her Sonne, named <hi>T. Dell:</hi> Into the houſe of this old woman (ſome foure yeares ſince) was ſeene goe in two prettie Children a Boy and a Girle, the Boy ſeemed not three yeares of age, and the Girle not much aboue foure. Theſe Children were led into the ſaid houſe by a wa<g ref="char:cmbAbbrStroke">̄</g>dring Pedler &amp; his wife (or Puncke.) The going in of theſe chil<g ref="char:EOLhyphen"/>dren was noted by diuers, but eſpeciallye by a Taylor dwelling in the towne called <hi>A. C.</hi> which Taylor markt them ſo much the more, for that they were hanſomelye ap<g ref="char:EOLhyphen"/>pare<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d and their coates made with new winges, ſkirtes and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ags, ſuch as he had not ſeene the like of before, which
+<pb n="2" facs="tcp:13828:3"/>made him preſentlye vpon the ſight of them, to make a pat<g ref="char:EOLhyphen"/>terne of thoſe winges and Iagges: But doubting that he had not taken a true patterne, he watched to haue ano<g ref="char:EOLhyphen"/>ther ſight of thoſe Children, But when for two or three daies ſpace hee could not ſee them, hee went to the houſe of Mother <hi>Dell,</hi> and did aſke her for thoſe Children? ſhee an<g ref="char:EOLhyphen"/>ſwered him verye ſhortly ſaying: they were ſafe enough, for they were gone againe with them that brought them.</p>
+            <p>With this anſwere the Taylor was ſatiſfyed, becauſe it no further conſcernd him then the getting of a peece of a new faſhion. But within a while after the boy was found dead in a ditch or water not farre from the Towne, with a great peece of wood tyed to his backe. The Childe being taken out, it did plainely appeare that hee was mur<g ref="char:EOLhyphen"/>thered before he was throwne in, The poore harmeleſſe Infant being found thus cruelly murthered, and none that looked on him taking knowledge of him. His pretty litle coate was taken and hanged vp in diuers market townes and proclamation made in euerie one of thoſe Townes to this effect, that if any one whatſoeuer could and would tel where the Father or Mother of the murthered Childe (which wore that Coate) dwelt, he ſhould haue fortye ſhil<g ref="char:EOLhyphen"/>lings for his paines, and his charges borne to bring him from and to the place where hee dwelt: But all this proo<g ref="char:EOLhyphen"/>ued to little or no purpoſe, till at the laſt, this newes came to the hearing of the Taylor, who comming to the place where the Coate was to bee ſeene, and taking good notice of it, he preſently calde to his remembrance, that, that coate was worne by one of thoſe Children which hee had ſeene goe into the houſe of Mother <hi>Dell.</hi>
+            </p>
+            <p>The newes of this comming to the eares of Sir <hi>Hen<g ref="char:EOLhyphen"/>ry Butler</hi> and one other Knight, being both Iuſtices, and both dwelling neere to that place, a warrant was made, by veride whereof, the ſaid Mother <hi>Dell</hi> and her Sonne were brought before them both, and ſtrictlye examined, where they both confeſt y<hi rend="sup">e</hi> two ſuch Children as the Tay<g ref="char:EOLhyphen"/>lor
+<pb n="3" facs="tcp:13828:3"/>ſpake of, came into the houſe with a Pedler and his wife, and that they verily thought the Boy at that time had that coate on his backe: but all this was nothing to them, for they neither knew the Penlar nor his wife, onely they came thether to ſee if they had neede of any of their ware, (as it is a common vſe for traueling Pedlars to cal at diuers houſes) &amp; when they had beſtowed ſome lit<g ref="char:EOLhyphen"/>tle money with them, both hee his wife, and thoſe Chil<g ref="char:EOLhyphen"/>dren (which they ſaide were theirs) went out on the back<g ref="char:EOLhyphen"/>ſide of the houſe, and what after became of them, they knew not.</p>
+            <p>Vpon this their confeſſion, they were both bound ouer to appeare and anſwere at the next Aſſizes, the Iuſtices hoping ere that time to finde out the actor or actors of that more then monſtrous tragedy. But alas their hopes were deceiued, for the time was not yet come wherein God had decreed to bring this cruell, barbarous, and bloody maſa<g ref="char:EOLhyphen"/>cre to light: yet notwithſtanding, they were ſtill bound o<g ref="char:EOLhyphen"/>uer from Siſe to Siſe, almoſte for foure yeares, in which time, the ſaide Mother <hi>Dell</hi> beſtowed great coſt in alte<g ref="char:EOLhyphen"/>ring repayring, and furniſhing of her houſe, which made many of her neighbors much to wo<g ref="char:cmbAbbrStroke">̄</g>der, for that they knew not from whence ſhee ſhould haue wherewith to defray that charge.</p>
+            <p>But now let vs leaue both her and her Sonne to the bel and horror of a guiltie conſcience, which alwaies waytes and attends on murtherers, and let vs now ſpeake of the poore mangled and diſmembred Girle, who was now in farre worſe caſe then her dead Brother, had not hee which prouides for the whoſe world, in his good appointed tyme prouided for her: For her tongue was firſt cut out of her head by the rootes, then was ſhee led by this ſaid Mother of miſchiefe and her Sonne, (at a time when they were not ſeene) to the ſide of a wood, which was ſildome fre<g ref="char:EOLhyphen"/>quented, in which place ſtood an old great hollow tree, which was not very high.</p>
+            <pb n="4" facs="tcp:13828:4"/>
+            <p>Hauing brought this helpleſſe and hopeleſſe child to this tree (which they ment ſhould be her graue) the ſonne got vp to the top, and rudely halled vp after him this harmles girle, who hauing ſeene her brother murthered before her face, had no reaſon to hope of life, yet did ſhe not ceaſe with teares and ſignes to begge for pitie of theſe pittileſſe wret<g ref="char:EOLhyphen"/>ches, whoſe hearts being much harder then ſtone, would not relent: for this mercileſſe villaine let her ſlippe into the tree where they left her, in hope neuer more to ſee her, or heare of her.</p>
+            <p>But he that preſerued <hi>Daniel</hi> in the Lions den, and made the blinde to ſee, the lame to goe, and the dumbe to ſpeake, did not onely preſerue the life of this childe, but alſo did giue vnto her an extraordinarie ſtrength and vigor, whereby ſhe was able, and did make ſuch a noyſe, that a man comming by that way (not by chaunce, but ſurlye by the prouidence and appointment of God) hearing a ſtrange humming, and hollow crying, drawing neare to that tree, perceiued the noyſe and crie to come from thence, which made him get vp to the top of it, where being and looking downe into it, he behelde that pittifull, ruthfull, and bloody ſpectacle: which when he had a while looked on with pit<g ref="char:EOLhyphen"/>tie and compaſſion, and hauing ſpoke to her, and percey<g ref="char:EOLhyphen"/>uing by her ſignes that ſhe could not anſwer him, he made meanes to drawe her out. Which when he had done, he be<g ref="char:EOLhyphen"/>gan (as may be eaſily imagined) to bethinke with him<g ref="char:EOLhyphen"/>ſelfe, what great trouble hee might come into if hee were found with the childe, he being a ſtranger, as it ſeemes he was.</p>
+            <p>And this feare of trouble (as was ſuppoſed by the graue and wiſe Iudge and Iuſtices of the Bench, when the mat<g ref="char:EOLhyphen"/>ter came to their hearing) made this man after he had pul<g ref="char:EOLhyphen"/>led her out of the tree, to make from her with all the haſte he could. But the poore ſoule purſued him with all the haſte ſhe could, crying and calling vnto him for ſuccor and helpe in the beſt manner ſhe could, being therevnto vrged
+<pb n="5" facs="tcp:13828:4"/>by paine and hunger, the leaſt of which will force a man of a reſolute and reſolued ſpirit to breake ſilence, had hee vowed the contrarie: much more then being ioyned both together muſt they force a childe.</p>
+            <p>In briefe then, when ſhe had loſt the ſight of him, God knowes what became of her, but no one man or woman can tell any certaine place of her abode for almoſt theſe foure yeares.</p>
+            <p>Many ſay they haue ſeene ſuch a dumbe child wander vp and downe a begging, And ſhe herſelfe hath confeſſed (ſince the time that God hath lent her vſe of her ſpeech and vtterance, that ſhe may bee eaſily vnderſtood by any that ſhall heare her) that ſhe did beg for her foode all that time.</p>
+            <p>And queſtionleſſe, the Lord who had reſerued her, both to bring ſo monſtrous a murder, and cruell a maſſacre to light, and alſo to make manifeſt his almightie power to many miſbeléeuing and vnbeléeuing miſcreants (Atheiſts I meane) he, I ſay, as may moſt euidently appeare, did both preſerue her, and prouide for her.</p>
+            <p>And now the time drawing neare, wherein it pleaſed God to giue theſe wicked wretches ſome part of of their reward, he ſo directed the courſe of this poore wandring childe, that ſhe came backe againe to the towne of <hi>Hat<g ref="char:EOLhyphen"/>ſield,</hi> where ſhe receiued her wrongs, hauing yet no vſe of ſpeech nor vtterance, whereby ſhe might be vnderſtood. And wandring vp and downe the towne, little thinking ſhe had beene neare the place where her innocent brother loſt his life, and herſelfe the inſtrument of her ſpeech: but going along the ſtreete<g ref="char:punc">▪</g> gaſing here and there, as children will doe (yea and olde folkes too) when they come into a ſtrange place, At laſt ſhee came by the houſe where this bloodie tragidie had beene acted: which houſe ſhe no ſooner ſawe, but ſhe knew, as did appeare by the ſignes of griefe and ſorrow, which ſhe made at the ſight thereof. For what with her crying, and the extraordinarie noyſe which ſhee made, ſhee drewe people about her, who did in ſome ſorte
+<pb n="6" facs="tcp:13828:5"/>ſeeme to greeue at the moane ſhee made: but ſurely they could not chuſe but wonder, and deſire to knowe what the ſorrow and ſignes ment which the childe made. For one while ſhe would gape wide with her mouth, drawing her fore finger to and fro it, as though ſhe had beene cut<g ref="char:EOLhyphen"/>ting of ſome thing: then would ſhe with her finger poynt into the houſe. And when this mother <hi>Dell</hi> and her ſonne came to the doore, then her crying and her ſignes did ſéeme much to encreaſe, which made the lookers on to ſuſpect much, but alas they knew not what. But at laſt amongſt other folkes, came the Tailer before ſpoken of, and hee no ſooner ſaw the child, noted her ſignes, and remembred the other Childe found in the water and murthered as is aforeſaide, but ſtraight he ſaies, that this was the other of thoſe Children, which was ledde into that houſe long ſince by the Pedler and his Wife. Then ſome of the Neighbours together with the Taylor, tooke the childe and led her into the houſe, ſhee being within, ſtood ſta<g ref="char:EOLhyphen"/>ring wildelye round about her, at laſt ſhee ſpied a paire of ſtayres, to which ſhee went directlye, and comming to them, ſhee looked earneſtlye on them, looking about the houſe againe, ſhe firſt pointed to the ſtayres, and then to a Corner of the houſe, as who ſhould ſay, theſe ſtayres did ſtand there.</p>
+            <p>This ſigne the neighbors vnderſtood well, becauſe they knew the ſtayres had bene remooued and that made them thinke ſome foul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> matter would bee pickt out of her other ſignes. Heereupon they beganne to lay handes on the Mother and her Sonne, to haue them againe (now with the Childe) before the Iuſtice, at which the childe ſeemed to reioyce.</p>
+            <p>Being brought before Sir <hi>Henry Butler,</hi> who was the next Iuſtice, (and had examined them diuers times be<g ref="char:EOLhyphen"/>fore concerning theſe Children) the Conſtable or Head bo<g ref="char:EOLhyphen"/>rough beganne to tell vnto his Worſhippe the cauſe of their comming, and hauing related vnto him from point
+<pb n="7" facs="tcp:13828:5"/>to point, what they had ſeene, the Childe marking, and vnderſtanding them well, fell to her former ſignes againe before the Knight. Whereupon hee did with greate wiſdome and diſcretion, examine them aparte, one from another. But they both remained ſtill obſtinate, and in their olde tale, confeſſing nothing, nor would anye of them acknowledge, that they had euer ſeene the Girle before, notwithſtanding the Taylor did ſtill affyrme it to their faces, that that was the Girle which the Pedler and his wife led into their houſe long ſince with the boy.</p>
+            <p>The Iuſtice aſſuring himſelfe now, that theſe were the actors of that bloody Tragedy, &amp; hoping that God would in time make it yet more plaine then if was, hee cauſed a Mittimus to be made &amp; ſent them to the Iayle, there to remaine with out dayle or maine priſe vntill the Aſſiſes. And further hee willed the Conſtable to take the Childs backe againe with him to the Towne, and to haue a great care that ſhe might be wel looked vnto, and to ſee the houſe of Mother <hi>Dell</hi> ſafely ſhut vp.</p>
+            <p>All this being doone according to the Knightes com<g ref="char:EOLhyphen"/>mau<g ref="char:cmbAbbrStroke">̄</g>d, &amp; the childes lodging &amp; diet being much better, then it had beene long before, ſhe began to gather both ſtrength and ſpirit vnto her, and to take delight to playe amongſt Children.</p>
+            <p>But now (Gentle Reader) let mee intreate thee as thou readſt, not onelye to admyre and wonder, but to prayſe &amp; and magnifie the mightie maker and preſeruer of vs all, for his great mercy and might ſhewed to this poore childe, in this next ſucceeding action, which if wee looke into but with the eyes of naturall reaſon and humane ſence, it will be thought incredible and impoſſible. But with God no<g ref="char:EOLhyphen"/>thing is impoſſible, &amp; this ought not to be thought incredi<g ref="char:EOLhyphen"/>ble, becauſe it was ſo lately and ſo neere vnto vs done, and for that the Childe is yet liuing in <hi>Harfield,</hi> to affirme for truth, all that is heere written of her.</p>
+            <pb n="8" facs="tcp:13828:6"/>
+            <p>Now you ſhal vnderſtand, that this girle being playing with other children on the backe-ſide of ſome mans houſe in the towne, where cocks, hens, &amp; chickens were féeding, It pleaſed God at that time, to make a cocke to be (as it were a tutor to the child, and) his firſt meſſenger of this mightie miracle, like as a bird of the ſame name and na<g ref="char:EOLhyphen"/>ture, vſing the ſelfe ſame note, put <hi>Peter</hi> in minde that hee had denied his maiſter: from which his remembrance, ſprung his true and heartie repentance. But to proceede: This child being playing (as I ſaid before) one of the cocks in the yard began to crow, and another anſwered him and thus they continued aprettie while. At laſt one of the chil<g ref="char:EOLhyphen"/>dren began (after their maner) to mocke the cockes, cry<g ref="char:EOLhyphen"/>ing cocke-adoodle-doo: in the end this dumbe child, ſtray<g ref="char:EOLhyphen"/>ning her ſelfe, cried as t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reſt had done, cocke-adoodle doo, which made all the children amazde: and one of them that ſtoode next her, ſaid: what, canſt thou ſpeake now? I that I can (ſaid ſhe) ſpeaking it ſo plainly that they all vnder<g ref="char:EOLhyphen"/>ſtoode her. The hearing of this made the children breake vp their play, and runne home with ioy to the houſe where this child was kept, to carrie newes. And when ſhe came home to the houſe where ſhe was kept, and the folke of the houſe finding the report of the children to be true, with ex<g ref="char:EOLhyphen"/>ceeding ioy (after the aſking of her ſome few queſtions, to which ſhe did anſwere verie directly) they led her againe to the knight before named, to whom they tolde what had happened. Which when he had heard (he being furniſhed with the feare of God, which is indeede the true fountaine and foundation of wiſedome) hee firſt of all gaue thankes to God, and then he did aſke her who cut out her tongue? ſhe ſaid, the olde woman and her ſonne, that killed her bro<g ref="char:EOLhyphen"/>ther, and put her into the trée: then he aſked her who tooke her out of the tree? and ſhe ſaide, a man, that when hee had done did runne away from her becauſe ſhe could not ſpeake to him. He likewiſe aſked whither ſhe went then? but alas ſhe could not tell him: then he did aſke her, who brought
+<pb n="9" facs="tcp:13828:6"/>her to the old womans houſe firſt? and ſhe ſaid a man and a woman that had killed her father and her mother, and ta<g ref="char:EOLhyphen"/>ken a great bagge of money from them. And ſhe ſaid that the man and woman had giuen a great deale of that mo<g ref="char:EOLhyphen"/>ney to the olde woman: and that the olde woman did at that time lift vp her hands thrée times, and did ſweare thrée times, that ſhe would neuer tell any body who they were. Theſe and many other queſtions the Knight did aſke her, to all which ſhe did anſwer, with more reaſon and ſenſe, then is common to one of her age.</p>
+            <p>To conclude, the Siſes being come, an Inditement was preferd againſt the mother and the ſonne, to which in<g ref="char:EOLhyphen"/>ditement they pleaded not guiltie, and put themſelues to the ordinarie triall. Whereupon the childe was brought before the Bench, and ſtoode vpon the Table betweene the Bench and the Iury. Where after that the foreſaid knight had opened ſome part of this foule offence, the childe was aſked diuerſe of the former queſtions: to which ſhe anſwe<g ref="char:EOLhyphen"/>red as before. The taylor likewiſe was there, who tolde vnto the Iurie what he had ſeene. Then the Iurie was willed to goe togither: but before they went, they did looke into the childes mouth, but could not ſee ſo much as the ſtumpe of a tongue therein. The Iurie ſtaid not long be<g ref="char:EOLhyphen"/>fore they returned with their verdite guiltie, wherevpon they had ſentence of death pronounced againſt them, and were both hanged at Hartfort the fourth day of Auguſt. <hi>1606.</hi>
+            </p>
+            <p>Thus farre (gentle reader) haue I ſet down briefly and truly the maner of this monſtrous maſſacre. And how farre it hath pleaſed God to reueale ſome of the Authors: and for ſome ſecrete purpoſe beſt knowne to himſelfe, to conceale the reſt, which queſtionleſſe ſhall be made knowne in his good appointed time, when it ſhall bee moſt for his honour and glorie. In the meane time, let me intreat all you which doe reade or heare this ruthfull diſcourſe, to meditate (as I doe and will) on the many miſeries and miſchances man<g ref="char:EOLhyphen"/>kinde
+<pb n="10" facs="tcp:13828:7"/>is ſubiect to, which if you doe, queſtionleſſe you will make leſſe ioy at the birth of your children, and leſſe ſorrow at their death then commonly you doe, and rather ſecke (in ſome ſort) to imitate thoſe Heathens, which did ſing and daunce at the death of their children, then thoſe Chriſtians which doe mourne and ſorrow as men paſt hope. As for the loue which ordinarily men beare vnto their children, it may more fitlye bee called loue to themſelues, then to their children. For notwithſtanding we all know or ought to know, that no one is truly happy till his end, if he die well, yet many (nay moſt of vs) doe rather deſire to haue our children ſuruine vs, then to ſee them fairely beſtowed before vs. Neuer thinking, reſpecting, or regarding, what may come to them after our death: ſo our humors be fed in our liues. And if this may not truly be ſaid to be ſelfe-loue, I know not what is ſelfe-loue. Therefore let vs all and euery one of vs, referre and put our willes to Gods will, aſſuring our ſelues, that all things ſhall worke togither for the beſt, for them that loue and feare him.</p>
+            <p>As for the Pedler and his wife, which the child hath con<g ref="char:EOLhyphen"/>feſt to haue robbed and kild her father and mother, they are not yet found out, nor is the place and above of her too vn<g ref="char:EOLhyphen"/>fortunate Parents yet knowne But yet all in good time, if it be the will of the Amightie, both the one and the other ſhall come to light.</p>
+            <closer>Amen.</closer>
+            <pb facs="tcp:13828:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
